@@ -12,12 +12,9 @@ title {
     text-transform: "uppercase";
     color: #4d5ae5;
     }
-
-span {
-    color:#2e2f42;
-
+.WEB {
+    color: #4d5ae5;
 }
-
 body {
     font-family: "Roboto", sans-serif;
     background-color: #fff;
@@ -137,6 +134,11 @@ p {
 .end {
     background: var(--NAVY-BLUE, #2E2F42);
 }
+
+.STUDIO {
+    color: #FFF;
+}
+
 .text {
         color:#FFF;
         font-family: "Roboto";
