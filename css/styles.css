@@ -1,4 +1,3 @@
-
 title {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -7,7 +6,7 @@ title {
     letter-spacing: 0.03em;
     text-transform: "uppercase";
     color: #4d5ae5;
-    }
+}
 
 body {
     font-family: "Roboto", sans-serif;
@@ -15,7 +14,7 @@ body {
     color: #434455;
     display: block;
     margin: auto;
-    }
+}
 
 .WEB {
     color: #4d5ae5;
@@ -25,73 +24,74 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    }
+}
 
 .span {
     color: #2e2f42;
-    }
+}
 
 .bg-fiolet {
     background-color: #434455;
-    }
+}
 
 .topline {
-color: var(--NAVY-BLUE, #2E2F42);
-font-family: "Roboto";
-font-size: 16px;
-font-style: "normal";
-font-weight: 500;
-line-height: 24px;
-letter-spacing: 0.32px;
-line-height: 1.5;
-letter-spacing: 0.02em;
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: "normal";
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .adress {
-font-style: "normal";
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+    font-style: "normal";
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 
-.adress:hover 
-.adress:focus {
-    color: #404bbf;
+    .adress:hover .adress:focus {
+        color: #404bbf;
+    }
+
 }
 
-}
 a:hover {
     color: red;
 }
 
 .contact {
     color: var(--SLATE, #434455);
-        font-family: "Roboto";
-        font-size: 16px;
-        font-style: "normal";
-        font-weight: 400;
-        line-height: 24px;
-        letter-spacing: 0.32px;
-        text-decoration: "none";
-    }
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: "normal";
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    text-decoration: "none";
+}
 
 
 .dark {
     background: var(--NAVY-BLUE, #2E2F42);
-    }
-    
-h1 {
-        color: var(--WHITE, #FFF);
-            text-align: "center";
-            font-family: "Roboto";
-            font-size: 56px;
-            font-style: "normal";
-            font-weight: 700;
-            line-height: 60px;
-            letter-spacing: 1.12px;
-    }
+}
 
-.button {border-radius: 4px;
+h1 {
+    color: var(--WHITE, #FFF);
+    text-align: "center";
+    font-family: "Roboto";
+    font-size: 56px;
+    font-style: "normal";
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+}
+
+.button {
+    border-radius: 4px;
     background: var(--IRIS, #4D5AE5);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
@@ -111,47 +111,47 @@ h2 {
 
 h3 {
     width: 264px;
-        color: var(--NAVY-BLUE, #2E2F42);
-        font-family: "Roboto";
-        font-size: 20px;
-        font-style: "normal";
-        font-weight: 500;
-        line-height: 24px;
-        letter-spacing: 0.4px;
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: "normal";
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
 }
 
 p {
     width: 264px;
-        color: var(--SLATE, #434455);
-        font-family: "Roboto";
-        font-size: 16px;
-        font-style: "normal";
-        font-weight: 400;
-        line-height: 24px;
-        /* 150% */
-        letter-spacing: 0.32px;
+    color: var(--SLATE, #434455);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: "normal";
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
 }
 
 .name {
     color: var(--NAVY-BLUE, #2E2F42);
-        text-align: "center";
-        font-family: "Roboto";
-        font-size: 20px;
-        font-style: "normal";
-        font-weight: 500;
-        line-height: 24px;
-        letter-spacing: 0.4px;
+    text-align: "center";
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: "normal";
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
 }
 
 .name1 {
-        width: 264px;
-        color: var(--SLATE, #434455);
-        font-family: "Roboto";
-        font-size: 16px;
-        font-style: "normal";
-        font-weight: 400;
-        line-height: 24px;
-        letter-spacing: 0.32px;
+    width: 264px;
+    color: var(--SLATE, #434455);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: "normal";
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
 }
 
 .end {
@@ -163,11 +163,11 @@ p {
 }
 
 .text {
-        color:#FFF;
-        font-family: "Roboto";
-        font-size: 16px;
-        font-style: "normal";
-        font-weight: 400;
-        line-height: 24px;
-        letter-spacing: 0.32px;
-  }
+    color: #FFF;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: "normal";
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
