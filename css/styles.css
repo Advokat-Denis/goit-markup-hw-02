@@ -8,6 +8,15 @@ title {
     text-transform: "uppercase";
     color: #4d5ae5;
     }
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+    color: #434455;
+    display: block;
+    margin: auto;
+    }
+    
 .WEB {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -20,13 +29,6 @@ title {
 
 .span {
     color: #2e2f42;
-    }
-body {
-    font-family: "Roboto", sans-serif;
-    background-color: #fff;
-    color: #434455;
-    display: block;
-    margin: auto;
     }
 
 .bg-fiolet {
