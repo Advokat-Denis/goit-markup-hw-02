@@ -16,7 +16,7 @@ body {
     display: block;
     margin: auto;
     }
-    
+
 .WEB {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -48,7 +48,7 @@ letter-spacing: 0.02em;
 }
 
 .adress {
-font-style: normal;
+font-style: "normal";
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
