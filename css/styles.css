@@ -1,3 +1,4 @@
+
 title {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -12,9 +13,7 @@ body {
     font-family: "Roboto", sans-serif;
     background-color: #fff;
     color: #434455;
-    display: block;
-    margin: auto;
-}
+    }
 
 .web {
     color: #4d5ae5;
@@ -27,8 +26,42 @@ body {
 }
 
 .span {
-    color: ;
+    color: #2e2f42;
 }
+
+.studio,
+.portfolio,
+.contacts {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    }
+
+.studio:hover,
+.studio:focus,
+.portfolio:hover,
+.portfolio:focus,
+.contacts:hover,
+.contacts:focus {
+    color: #404bbf;
+    }
+
+.address {
+    font-style: "normal";
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+.address:hover,
+.address:focus {
+    color: #404bbf;
+    }
+
+
+
 
 .bg-fiolet {
     background-color: #434455;
@@ -46,18 +79,6 @@ body {
     letter-spacing: 0.02em;
 }
 
-.adress {
-    font-style: "normal";
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-
-    .adress:hover .adress:focus {
-        color: #404bbf;
-    }
-
-}
 
 a:hover {
     color: red;
